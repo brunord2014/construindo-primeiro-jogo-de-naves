@@ -1,4 +1,4 @@
-# Digital Inovation One - Construindo primeiro jogo de naves
+# Digital Inovation One - Construindo Primeiro Jogo de Naves
 
 #### Veja como ficou o projeto através do GitHub Pages: <br/>
 <a href="https://brunorodsilva.github.io/construindo-primeiro-jogo-de-naves/)" target="_blank" rel="noopener noreferrer">Ver projeto na web</a> </br>
